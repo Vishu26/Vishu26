@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
 ![QGIS](https://img.shields.io/badge/-QGIS-000?&logo=QGIS)
-![Erdas](https://img.shields.io/badge/-Erdas-000?&logo=Erdas)
+![Pytorch](https://img.shields.io/badge/-Pytorch-000?&logo=Pytorch)
 ![Netlogo](https://img.shields.io/badge/-Netlogo-000?&logo=Netlogo)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
